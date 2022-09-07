@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/aplikasi-kontak-sederhana/static/css/main.687b24ac.css",
+    "main.js": "/aplikasi-kontak-sederhana/static/js/main.bfb3cc73.js",
+    "index.html": "/aplikasi-kontak-sederhana/index.html",
+    "main.687b24ac.css.map": "/aplikasi-kontak-sederhana/static/css/main.687b24ac.css.map",
+    "main.bfb3cc73.js.map": "/aplikasi-kontak-sederhana/static/js/main.bfb3cc73.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.687b24ac.css",
+    "static/js/main.bfb3cc73.js"
+  ]
+}
